@@ -1,2 +1,3 @@
 # First_repo
-Learning the platform 
+Learning the platform 😁
+Auther : Mit
